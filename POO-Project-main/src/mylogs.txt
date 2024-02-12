@@ -1,0 +1,138 @@
+Fornecedor:EDP Comercial,5.3,10
+Fornecedor:Galp Energia,6.3,15
+Fornecedor:Iberdrola,6.5,11
+Fornecedor:MEO Energia,4.2,8
+Casa:Jacinto,365597405,EDP Comercial
+Divisao:Sala de Jantar
+SmartBulb:Warm,11,4.57
+SmartBulb:Neutral,12,4.73
+Divisao:Quarto 1
+SmartBulb:Warm,9,0.19
+SmartSpeaker:35,MEGA HITS,Sony,5.54
+SmartCamera:(1920x1080),69,6.58
+SmartCamera:(1024x768),54,6.41
+SmartCamera:(1024x768),95,4.36
+SmartBulb:Warm,19,0.11
+SmartBulb:Neutral,19,1.54
+SmartBulb:Warm,5,3.46
+Divisao:Garagem
+SmartCamera:(1366x768),79,4.41
+SmartCamera:(1024x768),28,5.57
+SmartBulb:Warm,8,4.24
+SmartBulb:Neutral,5,0.12
+Divisao:Escritorio
+SmartSpeaker:40,RFM,Philips,4.20
+SmartSpeaker:65,M80 Radio,Marshall,5.21
+SmartBulb:Neutral,8,0.12
+SmartBulb:Neutral,12,3.78
+SmartCamera:(2160x1440),71,3.97
+SmartBulb:Neutral,7,0.24
+SmartBulb:Neutral,5,4.14
+Divisao:Quarto 2
+SmartBulb:Neutral,9,0.22
+SmartBulb:Neutral,9,0.14
+SmartSpeaker:30,RTP Antena 1 98.3 FM,JBL,5.53
+SmartBulb:Neutral,9,0.11
+SmartBulb:Neutral,13,1.09
+Casa:Diogo Filipe Duraes Ribeiro,637220731,MEO Energia
+Divisao:Sala de Jantar
+SmartBulb:Neutral,5,2.46
+SmartBulb:Neutral,6,0.18
+SmartSpeaker:70,RTP Antena 1 98.3 FM,BOSE,4.98
+SmartBulb:Neutral,7,0.13
+SmartBulb:Warm,11,8.12
+SmartBulb:Neutral,14,0.18
+SmartBulb:Neutral,9,0.12
+SmartSpeaker:75,Cidade FM,LG,4.91
+SmartBulb:Neutral,20,0.18
+Divisao:Garagem
+SmartBulb:Neutral,5,0.96
+SmartBulb:Cold,8,3.23
+SmartBulb:Neutral,11,3.63
+SmartSpeaker:78,RFM,BOSE,5.26
+SmartBulb:Neutral,20,0.17
+SmartSpeaker:59,Radio Comercial,Sony,5.25
+SmartSpeaker:3,Cidade FM,Sony,4.29
+SmartBulb:Neutral,20,0.15
+SmartCamera:(2160x1440),106,4.98
+SmartBulb:Neutral,20,0.27
+Divisao:Jardim
+SmartBulb:Neutral,12,0.12
+SmartBulb:Cold,19,3.85
+SmartBulb:Neutral,7,8.90
+SmartBulb:Neutral,8,6.60
+SmartBulb:Neutral,9,5.94
+SmartBulb:Neutral,5,0.16
+SmartBulb:Neutral,7,4.54
+SmartCamera:(3840x2160),96,7.01
+SmartBulb:Neutral,15,2.57
+Divisao:Quarto
+SmartBulb:Neutral,16,8.37
+SmartBulb:Neutral,16,3.36
+SmartBulb:Warm,19,7.63
+Divisao:Escritorio
+SmartCamera:(1280x720),39,5.81
+SmartBulb:Neutral,7,0.15
+SmartSpeaker:53,Radio Renascenca,Bang&Olufsen,5.24
+SmartCamera:(1280x720),76,0.40
+SmartBulb:Neutral,8,0.15
+SmartCamera:(1366x768),71,7.08
+SmartBulb:Warm,10,7.38
+Casa:Rui Pedro Oliveira Serrano Morais,028218138,Galp Energia
+Divisao:Escritorio
+SmartBulb:Neutral,11,2.07
+SmartCamera:(1280x720),37,4.95
+SmartCamera:(3840x2160),53,4.36
+SmartBulb:Neutral,16,1.44
+SmartBulb:Warm,12,0.11
+SmartBulb:Neutral,16,4.04
+SmartCamera:(1920x1080),117,0.43
+SmartBulb:Neutral,19,1.44
+SmartCamera:(1280x720),5,5.50
+SmartCamera:(1280x720),32,5.80
+Divisao:Sala de Jantar
+SmartSpeaker:71,Radio Comercial,LG,3.76
+SmartBulb:Neutral,8,0.29
+SmartBulb:Warm,15,4.95
+SmartBulb:Warm,14,2.59
+Divisao:Sala de Estar
+SmartCamera:(1920x1080),118,5.21
+SmartBulb:Neutral,9,0.28
+Divisao:Escritorio 1
+SmartBulb:Cold,10,8.59
+SmartBulb:Neutral,16,0.22
+SmartBulb:Neutral,20,0.13
+SmartBulb:Neutral,10,0.16
+SmartCamera:(1920x1080),7,4.08
+SmartCamera:(1024x768),53,0.14
+SmartBulb:Warm,17,6.37
+SmartSpeaker:54,MEGA HITS,JBL,4.14
+SmartBulb:Neutral,14,3.07
+Divisao:Sala de Estar 1
+SmartBulb:Neutral,17,0.17
+SmartBulb:Warm,7,3.11
+SmartSpeaker:70,RTP Antena 1 98.3 FM,Sony,4.34
+SmartBulb:Neutral,19,0.25
+SmartCamera:(3840x2160),27,0.46
+SmartBulb:Neutral,13,0.23
+SmartBulb:Neutral,8,1.77
+Divisao:Casa de Banho
+SmartCamera:(1920x1080),90,4.31
+Divisao:Casa de Banho 1
+SmartBulb:Neutral,11,0.27
+Divisao:Jardim
+SmartBulb:Warm,16,9.83
+SmartCamera:(1280x720),44,6.77
+SmartSpeaker:35,Radio Radar,Philips,5.11
+SmartSpeaker:60,TSF Radio Noticias,LG,4.04
+SmartBulb:Warm,11,0.29
+SmartCamera:(2160x1440),70,0.24
+Divisao:Quarto
+SmartBulb:Neutral,17,8.85
+SmartCamera:(1280x720),118,4.69
+SmartBulb:Neutral,19,3.12
+SmartCamera:(2160x1440),16,6.37
+SmartCamera:(1024x768),84,4.50
+SmartBulb:Neutral,7,4.81
+SmartBulb:Warm,6,0.15
+SmartCamera:(3840x2160),55,3.97
